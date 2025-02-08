@@ -1,0 +1,4 @@
+DEEPFAKE DETECTED at 2025-02-07 16:16:03
+Confidence Score: 95.00%
+Frame Number: 1234
+------------------------
